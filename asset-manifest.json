@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/calvincgee/chartup-proj.git/static/js/main.91366611.chunk.js",
-    "main.js.map": "/calvincgee/chartup-proj.git/static/js/main.91366611.chunk.js.map",
-    "runtime-main.js": "/calvincgee/chartup-proj.git/static/js/runtime-main.1b0da95f.js",
-    "runtime-main.js.map": "/calvincgee/chartup-proj.git/static/js/runtime-main.1b0da95f.js.map",
-    "static/js/2.7555a00b.chunk.js": "/calvincgee/chartup-proj.git/static/js/2.7555a00b.chunk.js",
-    "static/js/2.7555a00b.chunk.js.map": "/calvincgee/chartup-proj.git/static/js/2.7555a00b.chunk.js.map",
-    "index.html": "/calvincgee/chartup-proj.git/index.html",
-    "static/js/2.7555a00b.chunk.js.LICENSE.txt": "/calvincgee/chartup-proj.git/static/js/2.7555a00b.chunk.js.LICENSE.txt"
+    "main.js": "/chartup-proj/static/js/main.91366611.chunk.js",
+    "main.js.map": "/chartup-proj/static/js/main.91366611.chunk.js.map",
+    "runtime-main.js": "/chartup-proj/static/js/runtime-main.7588e8a4.js",
+    "runtime-main.js.map": "/chartup-proj/static/js/runtime-main.7588e8a4.js.map",
+    "static/js/2.7555a00b.chunk.js": "/chartup-proj/static/js/2.7555a00b.chunk.js",
+    "static/js/2.7555a00b.chunk.js.map": "/chartup-proj/static/js/2.7555a00b.chunk.js.map",
+    "index.html": "/chartup-proj/index.html",
+    "static/js/2.7555a00b.chunk.js.LICENSE.txt": "/chartup-proj/static/js/2.7555a00b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b0da95f.js",
+    "static/js/runtime-main.7588e8a4.js",
     "static/js/2.7555a00b.chunk.js",
     "static/js/main.91366611.chunk.js"
   ]
